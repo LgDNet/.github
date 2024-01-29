@@ -10,8 +10,8 @@
 
 
 
-
-## WARM UP
+<details>
+<summary>WARM UP</summary>
 
 ### Credit-rating-classification
 
@@ -40,8 +40,7 @@
 
 ### 코드 제출 마감
 2024년 2월 9일(금) 23:59
-
----
+</details>
 
 
 ## TARGET
