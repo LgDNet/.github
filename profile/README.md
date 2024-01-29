@@ -5,13 +5,13 @@
     - Phase1: 온라인 교육
     - Phase2: 온라인 해커톤
     - Phase3: 오프라인 해커톤
-
+---
 
 
 
 
 ## WARM UP
----
+
 ### Credit-rating-classification
 
 <img width="869" alt="image" src="https://github.com/LgDNet/Credit-rating-classification/assets/118493627/09c78f28-bdeb-48c6-9a60-af8234590e84">
@@ -39,8 +39,8 @@
 
 ### 코드 제출 마감
 2024년 2월 9일(금) 23:59
-
+---
 
 
 ## TARGET
----
+
