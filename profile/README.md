@@ -21,4 +21,4 @@
 
 ### DIVE 2024
 
-Soon..
+[Soon..](https://github.com/LgDNet/deep-divers)
