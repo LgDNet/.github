@@ -1,16 +1,16 @@
-# Hackerthoner
+# Hackathoner
 
 ![logo](https://github.com/user-attachments/assets/01d1d430-4bc1-4c43-b0b4-5ff99d267d7c)
 
 
 ## Competitions
 
-### LG Aimers Hackerthon Playground 
+### LG Aimers Hackathon Playground 
 
 - 2024.01 ~ 2024.03
 - MQL데이터를 활용하여 영업 기회 전환 고객을 선별하기 위한 AI모델 개발
 
-[LG Hackerthon detail 🤜](https://github.com/LgDNet/phase2_module)
+[LG Hackathon detail 🤜](https://github.com/LgDNet/phase2_module)
 
 ### DACON: Credit-rating-classification
 
